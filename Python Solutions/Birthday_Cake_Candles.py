@@ -15,8 +15,8 @@ import sys
 
 def birthdayCakeCandles(ar):
     # Write your code here
-    m = max(ar)           // to find maximum element in list
-    return ar.count(m)    // returns the no. of occurences of max element
+    m = max(ar)           # to find maximum element in list
+    return ar.count(m)    # returns the no. of occurences of max element
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

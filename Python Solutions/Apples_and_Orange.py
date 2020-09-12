@@ -9,8 +9,8 @@ import sys
 # Complete the countApplesAndOranges function below.
 # Logic
 def countApplesAndOranges(s, t, a, b, apples, oranges):
-    acount = 0         // to count number of apples.
-    bcount = 0         // to count number of oranges.
+    acount = 0         # to count number of apples.
+    bcount = 0         # to count number of oranges.
     # following logic is to count for apples in range.
     for i in range(len(apples)):
         temp = a+apples[i]

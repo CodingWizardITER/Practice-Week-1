@@ -23,21 +23,12 @@ class Result {
         // Write your code here
         int sum1 = 0;
         int sum2 = 0;
-        for (int i = 0; i < arr.size(); i++) {
-            for (int j = 0; j < arr.size(); j++) {
-
-                // For first diagonal
-                if (i == j) {
-                    // Sum of first diagonal
-                    sum1 += arr.get(i).get(j);
-                }
-
-                // For second diagonal
-                if ((i + j) == (arr.size() - 1)) {
-                    // Sum of second diagonal
-                    sum2 += arr.get(i).get(j);
-                }
-            }
+        int n = arr.size(); // array length
+        for (int i = 0; i < n; i++) {
+           // for first diagonal
+           sum1 += arr.get(i).get(i);    //ele = a[i][j], where, i = j
+           // for second diagonal
+           sum2 += arr.get(i).get(n - i - 1);  //ele = a[i][j], where, j = n - i - 1
         }
         // Absolute difference of sum of both the daigonals
         return (Math.abs(sum1 - sum2));

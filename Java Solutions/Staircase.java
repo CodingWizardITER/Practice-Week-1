@@ -10,7 +10,12 @@ public class Solution {
 
     // Complete the staircase function below.
     /*
-     * LOGIC :- To print # ## ### #### First: Write logic to print the blank spaces
+     * LOGIC :- To print 
+     *      # 
+     *     ## 
+     *    ### 
+     *   #### 
+     * First: Write logic to print the blank spaces
      * Second: Write logic to print the #
      */
     static void staircase(int n) {

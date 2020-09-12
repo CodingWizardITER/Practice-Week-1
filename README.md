@@ -18,3 +18,9 @@
 - ___***Sourav Sahu***___ .Language: Python/[Github Profile](https://github.com/sahusourav)
 
 - ___***Sandip Swain***___. Language: Java/[Github Profile](https://github.com/sandipswain)
+
+- ___***Shobhit Preetam Sahoo***___. Language: C++/[Github Profile](https://github.com/ShobhitSahoo)
+
+- ___***Kanithi Chandrachood***___. Language: C
+
+

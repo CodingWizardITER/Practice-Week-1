@@ -21,6 +21,6 @@
 
 - ___***Shobhit Preetam Sahoo***___. Language: C++/[Github Profile](https://github.com/ShobhitSahoo)
 
-- ___***Kanithi Chandrachood***___. Language: C
+- ___***Kanithi Chandrachood***___. Language: C/[Github Profile](https://github.com/Kanithi-Chandrachood)
 
 

@@ -8,9 +8,9 @@ import sys
 
 # Complete the plusMinus function below.
 def plusMinus(arr):
-    pos=0     // counter to find number of positive nos.
-    neg=0     // counter to find number of negative nos.
-    neu=0     // counter to find number of zeros.
+    pos=0     # counter to find number of positive nos.
+    neg=0     # counter to find number of negative nos.
+    neu=0     # counter to find number of zeros.
     for i in range(len(arr)):
         if(arr[i]>0):
             pos+=1
